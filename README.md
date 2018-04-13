@@ -1,2 +1,2 @@
-# Weather-prediction-system-using-web-scraping
+# Web-Scraping
 Weather prediction system using web scraping
