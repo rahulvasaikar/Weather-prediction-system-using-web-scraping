@@ -1,6 +1,6 @@
 # Web-Scraping
 
-Here there are to web scraping projects:
+Web scraping can be used for gathering data or for saving computation in this two projects given below we would be using for second pourpose:
 ### 1: Dictionary
 ### 2: Weather Prediction
 
